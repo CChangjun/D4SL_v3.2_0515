@@ -1,0 +1,18 @@
+#line 1 "C:\\개인폴더\\FirmWare\\무선화FW\\TEST\\CHANG__cust_0508\\JUST_TEST\\D4SLv3.1\\CHANG_cust_d4sl\\.vscode\\arduino.json"
+{
+  "port": "COM4",
+  "configuration": "UploadSpeed=512000,CPUFreq=240,FlashFreq=80,FlashMode=dio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,PSRAM=disabled,LoopCore=1,EventsCore=1,EraseFlash=none,JTAGAdapter=default",
+  "output": "build",
+  "board": "esp32:esp32:esp32",
+  "programmer": "Esptool",
+  "useProgrammer": false,
+  "configurationRequired": true,
+  "monitorPortSettings": {
+    "port": "COM3",
+    "baudRate": 230400,
+    "lineEnding": "\r\n",
+    "dataBits": 8,
+    "parity": "none",
+    "stopBits": "one"
+  }
+}
